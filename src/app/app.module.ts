@@ -15,7 +15,7 @@ import { ForgotPasswordComponent } from './components/forgot-password/forgot-pas
 import { VerifyEmailComponent } from './components/verify-email/verify-email.component';
 
 // App routing modules
-import { AppRoutingModule } from '../shared/routing/app-routing.module';
+import { AppRoutingModule } from './shared/routing/app-routing.module';
 
 // Auth Service
 import { AuthService } from './shared/services/auth.service';
